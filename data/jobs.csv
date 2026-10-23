@@ -1,0 +1,11 @@
+job_id,title,company,location,min_experience,skills,description
+JOB001,AI Engineer,NovaStack AI,Pune,2,"Python,Machine Learning,FastAPI,SQL,OpenAI,RAG","Build production AI services, retrieval workflows and model-powered APIs."
+JOB002,Generative AI Engineer,CloudVertex Labs,Remote,2,"Python,LLM,RAG,LangChain,LangGraph,OpenAI,Vector Database","Develop enterprise GenAI applications using RAG, agents and LLM orchestration."
+JOB003,ML Engineer,DataForge Systems,Bengaluru,3,"Python,Scikit-learn,XGBoost,SQL,MLflow,AWS","Develop and deploy machine learning pipelines and model services."
+JOB004,LLM Engineer,NextGen Automation,Hyderabad,3,"Python,Transformers,Hugging Face,RAG,FastAPI,OpenAI,LangGraph","Build LLM applications, evaluation pipelines and agentic workflows."
+JOB005,AI Platform Engineer,ScaleAI Works,Remote,4,"Python,AWS,Docker,Kubernetes,FastAPI,LLM,MLOps","Create scalable AI infrastructure and deployment platforms."
+JOB006,NLP Engineer,LanguageLab,Delhi,2,"Python,NLP,Transformers,BERT,Hugging Face,SQL","Develop NLP classification, extraction and semantic search systems."
+JOB007,Agentic AI Engineer,Orbit Intelligence,Pune,3,"Python,LangGraph,LangChain,MCP,OpenAI,RAG,FastAPI","Design tool-using AI agents with orchestration, retrieval and observability."
+JOB008,Data Scientist,InsightGrid,Mumbai,2,"Python,SQL,Pandas,Scikit-learn,Statistics,Power BI","Build predictive analytics and data-driven business solutions."
+JOB009,GenAI Application Engineer,Enterprise AI Hub,Remote,2,"Python,FastAPI,OpenAI,Prompt Engineering,RAG,Vector Database","Deliver secure enterprise LLM applications with APIs and retrieval."
+JOB010,AI Solutions Engineer,TechBridge,Chennai,3,"Python,Azure,OpenAI,LangChain,SQL,REST API","Implement AI solutions and integrate LLM capabilities into business systems."
